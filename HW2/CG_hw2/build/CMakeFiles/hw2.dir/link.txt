@@ -1,3 +1,0 @@
-C:\cmake-3.19.0-rc3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\hw2.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\hw2.dir/objects.a @CMakeFiles\hw2.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\hw2.dir/objects.a -Wl,--no-whole-archive -o hw2.exe -Wl,--out-implib,libhw2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hw2.dir\linklibs.rsp
