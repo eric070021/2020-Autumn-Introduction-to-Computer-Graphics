@@ -1,0 +1,1 @@
+  -LC:/Users/ERIC/Desktop/CG_hw4/glew-2.2.0/lib/Release/x64  -LC:/Users/ERIC/Desktop/CG_hw4/freeglut/lib/x64  -LC:/Users/ERIC/Desktop/CG_hw4/FreeImage-3.18/lib  -lopengl32 -lglu32 -Wl,-Bstatic -lfreeglut -Wl,-Bdynamic -lglew32 -lFreeImage -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
