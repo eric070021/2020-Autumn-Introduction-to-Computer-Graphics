@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FreeImage_dll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FreeImage_dll-Debug-a1b49449f05f9e1db4b7.json",
+					"name" : "FreeImage_dll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "freeglut_dll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-freeglut_dll-Debug-640f2385d5ee46752771.json",
+					"name" : "freeglut_dll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glew_dll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glew_dll-Debug-cbc516affcdfd67dd8a9.json",
+					"name" : "glew_dll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw3-Debug-74dccd48226dd1277f4d.json",
+					"name" : "hw3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ERIC/Desktop/CG_hw4/build",
+		"source" : "C:/Users/ERIC/Desktop/CG_hw4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
