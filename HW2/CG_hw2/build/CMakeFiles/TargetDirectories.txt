@@ -1,0 +1,8 @@
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/package_source.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/glew_dll.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/freeglut_dll.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/package.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/FreeImage_dll.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/hw2.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/edit_cache.dir
+C:/Users/ERIC/Desktop/CG_hw2/build/CMakeFiles/rebuild_cache.dir
